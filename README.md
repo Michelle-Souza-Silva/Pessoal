@@ -1,2 +1,2 @@
 # Pessoal
- Primeiro repositório versionado
+ Primeiro repositório criado no curso de Git e Github.
